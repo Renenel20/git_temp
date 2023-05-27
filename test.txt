@@ -1,2 +1,4 @@
 test penguin
 test sea lion
+test seagull
+test crab
